@@ -23,7 +23,7 @@ Sie können dieses Repository im Prinzip auf zwei Arten nutzen:
 **Mein Tipp:** Arbeiten Sie immer auf Ihren eigenen Daten, welche einen eigenen Dateinamen tragen sollten, und nutzen Sie meine Dateien nur als Vorlagen für Ihr eigenes Lernskript.
 
 
-### RStudio Desktop Nutzer
+### Hinweise für RStudio Desktop Nutzer*innen
 
 Bitte geben Sie, um die Installation abzuschliessen, in der **Console** den folgenden Befehl ein:
 
@@ -43,7 +43,7 @@ Um direkt mit *RStudio* die aktuelle Fassungen via `git` auf seinen Rechner zu b
 Zu Kompliziert? -- Dann nutzen Sie bitte die ZIP Dateien aus dem GitHub-Repository lokal bei sich auf dem Rechner in einem seperaten Verzeichnis/Ordner.
 
 
-### RStudio Cloud Nutzer
+### Hinweise für RStudio Cloud Nutzer*innen
 
 Bitte geben Sie, um die Installation abzuschliessen, in der **Console** den folgenden Befehl ein:
 
