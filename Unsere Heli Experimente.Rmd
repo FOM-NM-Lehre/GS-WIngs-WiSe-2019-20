@@ -1,0 +1,26 @@
+---
+title: "Unser Helicopter Experiment"
+author: "Norman Markgraf"
+date: "9 11 2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(mosaic)
+```
+
+## Vorebreitungen
+
+```{r}
+library(mosaic)
+```
+
+
+## Das Einlesen der Daten
+
+```{r}
+helidaten <- read.csv2("UnsereMessungen.csv")
+```
+
